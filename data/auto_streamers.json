@@ -1,0 +1,25 @@
+{
+  "joel": {
+    "display_name": "Joel",
+    "aliases": [
+      "bms joel"
+    ],
+    "category": "streamer",
+    "twitch": null,
+    "auto": true
+  },
+  "garnt": {
+    "display_name": "Garnt",
+    "aliases": [],
+    "category": "streamer",
+    "twitch": null,
+    "auto": true
+  },
+  "team_worldwide": {
+    "display_name": "Team Worldwide",
+    "aliases": [],
+    "category": "streamer",
+    "twitch": null,
+    "auto": true
+  }
+}

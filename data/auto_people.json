@@ -1,0 +1,62 @@
+{
+  "yonna": {
+    "display_name": "Yonna",
+    "aliases": [],
+    "category": "person"
+  },
+  "burt_bronx": {
+    "display_name": "Burt Bronx",
+    "aliases": [],
+    "category": "person"
+  },
+  "ozemi": {
+    "display_name": "Ozemi",
+    "aliases": [],
+    "category": "person"
+  },
+  "nanatty": {
+    "display_name": "Nanatty",
+    "aliases": [],
+    "category": "person"
+  },
+  "bike_owner": {
+    "display_name": "Bike Owner",
+    "aliases": [],
+    "category": "person"
+  },
+  "ronaldo": {
+    "display_name": "Ronaldo",
+    "aliases": [],
+    "category": "person"
+  },
+  "bms": {
+    "display_name": "BMS",
+    "aliases": [],
+    "category": "person"
+  },
+  "joel_s": {
+    "display_name": "Joel's",
+    "aliases": [],
+    "category": "person"
+  },
+  "cubert": {
+    "display_name": "Cubert",
+    "aliases": [],
+    "category": "person"
+  },
+  "toss": {
+    "display_name": "Toss",
+    "aliases": [],
+    "category": "person"
+  },
+  "cinderella": {
+    "display_name": "Cinderella",
+    "aliases": [],
+    "category": "person"
+  },
+  "simon_says": {
+    "display_name": "Simon Says",
+    "aliases": [],
+    "category": "person"
+  }
+}

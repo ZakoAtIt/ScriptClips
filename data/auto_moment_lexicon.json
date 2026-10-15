@@ -1,0 +1,323 @@
+{
+  "rakai talks about yonna dream": {
+    "wet_dream_about": {
+      "query_terms": [
+        "rakai",
+        "talks",
+        "about",
+        "yonna",
+        "dream",
+        "generated"
+      ],
+      "patterns": [
+        "wet\\ dream\\ about",
+        "you\\ were\\ in\\ my\\ dream"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "rakai yonna dream": {
+    "wet_dream_about": {
+      "query_terms": [
+        "rakai",
+        "yonna",
+        "dream",
+        "controversial"
+      ],
+      "patterns": [
+        "wet\\ dream\\ about",
+        "you\\ were\\ in\\ my\\ dream"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "treyliving burt bronx physical confrontation": {
+    "you_slapped_me": {
+      "query_terms": [
+        "treyliving",
+        "burt",
+        "bronx",
+        "physical",
+        "confrontation",
+        "slap"
+      ],
+      "patterns": [
+        "you\\ slapped\\ me",
+        "he\\ hit\\ me",
+        "slap\\ in\\ the\\ face"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "treyliving slaps burt bronx": {
+    "you_slapped_me": {
+      "query_terms": [
+        "treyliving",
+        "slaps",
+        "burt",
+        "bronx",
+        "bau",
+        "house"
+      ],
+      "patterns": [
+        "you\\ slapped\\ me",
+        "i\\ got\\ slapped"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "ozemi nanatty confrontation": {
+    "confrontation_with_police": {
+      "query_terms": [
+        "ozemi",
+        "nanatty",
+        "confrontation",
+        "japan",
+        "police"
+      ],
+      "patterns": [
+        "confrontation\\ with\\ police",
+        "police\\ interaction"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "chrisean kai cenat hole in the wall": {
+    "hole_in_the_wall": {
+      "query_terms": [
+        "chrisean",
+        "kai",
+        "cenat",
+        "hole",
+        "wall"
+      ],
+      "patterns": [
+        "hole\\ in\\ the\\ wall",
+        "found\\ a\\ hole\\ in\\ the\\ wall",
+        "discovered\\ a\\ hole\\ in\\ the\\ wall",
+        "put\\ a\\ hole\\ in\\ the\\ wall",
+        "put\\ a\\ hole\\ in\\ my\\ wall",
+        "you\\ just\\ put\\ a\\ hole"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "fuzy bike crash": {
+    "bike_crash": {
+      "query_terms": [
+        "fuzy",
+        "bike",
+        "crash"
+      ],
+      "patterns": [
+        "bike\\ crash",
+        "fell\\ off\\ the\\ bike",
+        "crashed\\ into"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "fuzy jack neon crashout fight": {
+    "crash_out_fight": {
+      "query_terms": [
+        "fuzy",
+        "jack",
+        "neon",
+        "crashout",
+        "fight"
+      ],
+      "patterns": [
+        "crash\\ out\\ fight",
+        "neon\\ crashout",
+        "fuzy\\ jack\\ vs\\ opponent"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "fuzy jack water throw fight": {
+    "throwing_water": {
+      "query_terms": [
+        "fuzy",
+        "jack",
+        "throw",
+        "fight"
+      ],
+      "patterns": [
+        "throwing\\ water",
+        "getting\\ hit\\ with\\ water",
+        "water\\ fight"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "chrisean makes hole in kai cenat's wall": {
+    "made_a_hole_in_the_wall": {
+      "query_terms": [
+        "chrisean",
+        "makes",
+        "hole",
+        "kai",
+        "cenat's",
+        "wall"
+      ],
+      "patterns": [
+        "made\\ a\\ hole\\ in\\ the\\ wall",
+        "i\\ accidentally\\ made\\ a\\ hole",
+        "put\\ a\\ hole\\ in\\ my\\ wall",
+        "you\\ just\\ put\\ a\\ hole"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "fousey fights bike owner": {
+    "fight_with_bike_owner": {
+      "query_terms": [
+        "fousey",
+        "fights",
+        "bike",
+        "owner",
+        "dangerous"
+      ],
+      "patterns": [
+        "fight\\ with\\ bike\\ owner",
+        "argument\\ over\\ dangerous\\ bike",
+        "you're\\ putting\\ me\\ in\\ danger"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "fousey fights neon": {
+    "started_fighting_each_other": {
+      "query_terms": [
+        "fousey",
+        "fights",
+        "neon",
+        "jack's"
+      ],
+      "patterns": [
+        "started\\ fighting\\ each\\ other",
+        "began\\ a\\ physical\\ altercation"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "fousey throws water on jack": {
+    "throws_water_on_opponent": {
+      "query_terms": [
+        "fousey",
+        "throws",
+        "jack",
+        "fight",
+        "onstream"
+      ],
+      "patterns": [
+        "throws\\ water\\ on\\ opponent",
+        "gets\\ splashed\\ with\\ water"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "rakai talks about dream yonna": {
+    "talks_about_the_dream": {
+      "query_terms": [
+        "rakai",
+        "talks",
+        "about",
+        "dream",
+        "yonna",
+        "generated"
+      ],
+      "patterns": [
+        "talks\\ about\\ the\\ dream",
+        "shares\\ a\\ dream\\ with"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "bms joel's final cubert toss": {
+    "final_cubert_toss": {
+      "query_terms": [
+        "bms",
+        "joel's",
+        "final",
+        "cubert",
+        "toss",
+        "record"
+      ],
+      "patterns": [
+        "final\\ cubert\\ toss",
+        "biggest\\ cubert\\ toss",
+        "record\\ attempt"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "qt cinderella dominates simon says": {
+    "dominates_the_game": {
+      "query_terms": [
+        "cinderella",
+        "dominates",
+        "simon",
+        "says",
+        "streamer",
+        "games"
+      ],
+      "patterns": [
+        "dominates\\ the\\ game",
+        "outsmarts\\ opponent",
+        "wins\\ round"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "garnt crazy goalkeeping": {
+    "crazy_save": {
+      "query_terms": [
+        "garnt",
+        "crazy",
+        "goalkeeping",
+        "streamer",
+        "games"
+      ],
+      "patterns": [
+        "crazy\\ save",
+        "goalkeeping\\ brilliance",
+        "amazing\\ save"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  },
+  "rakai had yonna in dream": {
+    "had_a_dream_about": {
+      "query_terms": [
+        "rakai",
+        "had",
+        "yonna",
+        "dream"
+      ],
+      "patterns": [
+        "had\\ a\\ dream\\ about",
+        "you\\ were\\ in\\ my\\ dream"
+      ],
+      "pad": 12,
+      "priority": 5
+    }
+  }
+}

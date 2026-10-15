@@ -1,0 +1,194 @@
+{
+  "queries": "rakai had yonna in dream\nrakai yonna dream ai generated",
+  "people": "{\n  \"cristiano_ronaldo\": {\n    \"display_name\": \"Cristiano Ronaldo\",\n    \"aliases\": [\"ronaldo\", \"cristiano ronaldo\", \"cr7\"],\n    \"category\": \"person\"\n  },\n  \"lebron_james\": {\n    \"display_name\": \"LeBron James\",\n    \"aliases\": [\"lebron\", \"lebron james\", \"king james\"],\n    \"category\": \"person\"\n  },\n  \"caseoh\": {\n    \"display_name\": \"CaseOh\",\n    \"aliases\": [\"caseoh\", \"case oh\"],\n    \"twitch\": \"caseoh\",\n    \"category\": \"streamer\"\n  },\n  \"tom_holland\": {\n    \"display_name\": \"Tom Holland\",\n    \"aliases\": [\"tom holland\", \"tom holland actor\"],\n    \"category\": \"person\"\n  },\n  \"zendaya\": {\n    \"display_name\": \"Zendaya\",\n    \"aliases\": [\"zendaya\", \"zendaya coleman\", \"zendaya stoermer\"],\n    \"category\": \"person\"\n  },\n  \"kevin_feige\": {\n    \"display_name\": \"Kevin Feige\",\n    \"aliases\": [\"kevin feige\", \"feige\", \"kevin feige marvel\"],\n    \"category\": \"person\"\n  }\n}\n",
+  "subject": {
+    "source": "queries.txt",
+    "queries": [
+      "rakai had yonna in dream",
+      "rakai yonna dream ai generated"
+    ]
+  },
+  "sentences": [
+    {
+      "streamer": {
+        "name": "RaKai",
+        "twitch_handle": "2xRaKai",
+        "kick": null,
+        "youtube": [
+          "2xRaKai"
+        ],
+        "aliases": [
+          "rakai",
+          "2x rakai",
+          "2xrakai",
+          "ra kai"
+        ],
+        "category": "streamer"
+      },
+      "candidate_streamers": null,
+      "subject": "RaKai",
+      "speaker": null,
+      "core_entities": [
+        "RaKai",
+        "Yonna"
+      ],
+      "topics": [],
+      "media_query": false,
+      "entities_detail": [
+        {
+          "name": "RaKai",
+          "aliases": [
+            "rakai",
+            "2x rakai",
+            "2xrakai",
+            "ra kai"
+          ],
+          "twitch": "2xRaKai",
+          "kick": null,
+          "youtube": [
+            "2xRaKai"
+          ],
+          "category": "streamer",
+          "resolved": false
+        },
+        {
+          "name": "Yonna",
+          "aliases": [],
+          "twitch": null,
+          "kick": null,
+          "youtube": [],
+          "category": "person",
+          "resolved": false
+        }
+      ],
+      "subjects_unknown": false,
+      "action": "",
+      "action_terms": [],
+      "object_terms": [],
+      "visual_event": false,
+      "visual_event_kind": null,
+      "scene_prompts": [
+        "rakai had yonna dream"
+      ],
+      "action_search_queries": [
+        "RaKai Yonna",
+        "RaKai"
+      ],
+      "window_seconds": 10,
+      "context_terms": [],
+      "sentence_type": "narration",
+      "visual_prompt": "rakai had yonna in dream",
+      "search_queries": [
+        "rakai had yonna in dream",
+        "rakai had yonna dream"
+      ],
+      "semantic_target": "rakai had yonna in dream",
+      "required_terms": [
+        "RaKai",
+        "Yonna"
+      ],
+      "excluded": [
+        "reaction",
+        "compilation",
+        "recap",
+        "edited"
+      ],
+      "note": "parsed from queries.txt",
+      "sentence": "rakai had yonna in dream",
+      "actions": []
+    },
+    {
+      "streamer": {
+        "name": "RaKai",
+        "twitch_handle": "2xRaKai",
+        "kick": null,
+        "youtube": [
+          "2xRaKai"
+        ],
+        "aliases": [
+          "rakai",
+          "2x rakai",
+          "2xrakai",
+          "ra kai"
+        ],
+        "category": "streamer"
+      },
+      "candidate_streamers": null,
+      "subject": "RaKai",
+      "speaker": null,
+      "core_entities": [
+        "RaKai",
+        "Yonna"
+      ],
+      "topics": [],
+      "media_query": false,
+      "entities_detail": [
+        {
+          "name": "RaKai",
+          "aliases": [
+            "rakai",
+            "2x rakai",
+            "2xrakai",
+            "ra kai"
+          ],
+          "twitch": "2xRaKai",
+          "kick": null,
+          "youtube": [
+            "2xRaKai"
+          ],
+          "category": "streamer",
+          "resolved": false
+        },
+        {
+          "name": "Yonna",
+          "aliases": [],
+          "twitch": null,
+          "kick": null,
+          "youtube": [],
+          "category": "person",
+          "resolved": false
+        }
+      ],
+      "subjects_unknown": false,
+      "action": "generated",
+      "action_terms": [
+        "generated"
+      ],
+      "object_terms": [],
+      "visual_event": false,
+      "visual_event_kind": null,
+      "scene_prompts": [
+        "rakai generated",
+        "someone generated",
+        "rakai yonna dream"
+      ],
+      "action_search_queries": [
+        "RaKai Yonna generated",
+        "RaKai generated",
+        "RaKai Yonna",
+        "RaKai generated Yonna"
+      ],
+      "window_seconds": 30,
+      "context_terms": [],
+      "sentence_type": "event",
+      "visual_prompt": "rakai yonna dream ai generated",
+      "search_queries": [
+        "rakai yonna dream"
+      ],
+      "semantic_target": "rakai yonna dream",
+      "required_terms": [
+        "RaKai",
+        "Yonna"
+      ],
+      "excluded": [
+        "reaction",
+        "compilation",
+        "recap",
+        "edited"
+      ],
+      "note": "parsed from queries.txt",
+      "sentence": "rakai yonna dream ai generated",
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "n3on": {
+    "display_name": "N3on",
+    "aliases": ["n3on", "neon", "n3on the streamer", "n3on streamer"],
+    "twitch": "n3on",
+    "youtube": ["N3on", "N3ON", "N3on Clips"],
+    "category": "streamer"
+  },
+  "kaicenat": {
+    "display_name": "Kai Cenat",
+    "aliases": ["kai", "kai cenat", "cenat"],
+    "twitch": "kaicenat",
+    "youtube": ["Kai Cenat Live", "Kai Cenat Live Today", "Kai Cenat", "Kai Cenat Clips", "Kai Cenat Shorts"],
+    "category": "streamer"
+  },
+  "ishowspeed": {
+    "display_name": "IShowSpeed",
+    "aliases": ["speed", "ispeed", "ishowspeed"],
+    "twitch": "ishowspeed",
+    "youtube": ["IShowSpeed", "IShowSpeed Live", "Live Speedy", "IShowSpeed Clips", "IShowSpeed Shorts"],
+    "category": "streamer"
+  },
+  "adinross": {
+    "display_name": "Adin Ross",
+    "aliases": ["adin", "adin ross"],
+    "twitch": "adinross",
+    "youtube": ["Adin Ross", "Adin Live", "Adin Ross Live"],
+    "category": "streamer"
+  },
+  "xqc": {
+    "display_name": "xQC",
+    "aliases": ["xqc", "xqcow"],
+    "twitch": "xqc",
+    "youtube": ["xQc", "xQcOW", "xQc Streams"],
+    "category": "streamer"
+  },
+  "caseoh": {
+    "display_name": "CaseOh",
+    "aliases": ["caseoh", "case oh", "caseoh_"],
+    "twitch": "caseoh",
+    "youtube": ["CaseOh", "MoreCaseOh", "CaseOh Shorts"],
+    "category": "streamer"
+  },
+  "rakai": {
+    "display_name": "RaKai",
+    "aliases": ["rakai", "2x rakai", "2xrakai", "ra kai"],
+    "twitch": "2xRaKai",
+    "youtube": ["2xRaKai"],
+    "category": "streamer"
+  },
+  "pokimane": {
+    "display_name": "Pokimane",
+    "aliases": ["pokimane", "poki"],
+    "twitch": "pokimane",
+    "youtube": ["Pokimane"],
+    "category": "streamer"
+  },
+  "ludwig": {
+    "display_name": "Ludwig",
+    "aliases": ["ludwig", "ludwig ahgren"],
+    "twitch": "ludwig",
+    "youtube": ["Ludwig", "Ludwig Clips"],
+    "category": "streamer"
+  },
+  "mrbeast": {
+    "display_name": "MrBeast",
+    "aliases": ["mrbeast", "jimmy", "jimmy donaldson", "mr beast"],
+    "twitch": null,
+    "youtube": ["MrBeast", "MrBeast Gaming"],
+    "category": "youtuber"
+  },
+  "valkyrae": {
+    "display_name": "Valkyrae",
+    "aliases": ["valkyrae", "rachell hofstetter", "rachell"],
+    "twitch": "valkyrae",
+    "youtube": ["Valkyrae", "Valkyrae Live", "Valkyrae Clips"],
+    "category": "streamer"
+  },
+  "raphaelsololive": {
+    "display_name": "Raphael Solo",
+    "aliases": ["raphael solo", "raphaelsololive"],
+    "twitch": "raphaelsololive",
+    "youtube": [],
+    "category": "streamer"
+  },
+  "suburbbaby": {
+    "display_name": "Suburb Baby",
+    "aliases": ["suburb baby", "suburbbaby"],
+    "twitch": "suburbbaby",
+    "youtube": ["SuburbBaby"],
+    "category": "streamer"
+  },
+  "rampagejackson": {
+    "display_name": "Rampage Jackson",
+    "aliases": ["rampage jackson", "quinton jackson", "rampage"],
+    "twitch": null,
+    "kick": "rampagejackson",
+    "youtube": ["Rampage Jackson"],
+    "category": "streamer"
+  },
+  "sweatergxd": {
+    "display_name": "SweaterGxd",
+    "aliases": ["sweatergxd", "sweater gxd", "adrian sandoval"],
+    "twitch": null,
+    "kick": "sweatergxd",
+    "youtube": [],
+    "category": "streamer"
+  },
+  "maya": {
+    "display_name": "Maya",
+    "aliases": ["maya", "maya higa", "mayahiga"],
+    "twitch": "maya",
+    "youtube": ["Maya", "Maya Higa", "mayahiga"],
+    "category": "streamer"
+  },
+  "jasontheween": {
+    "display_name": "JasonTheWeen",
+    "aliases": ["jasontheween", "jason the ween"],
+    "twitch": "jasontheween",
+    "youtube": ["JasonTheWeen"],
+    "category": "streamer"
+  },
+  "paybae": {
+    "display_name": "PayBae",
+    "aliases": ["paybae", "pay bae"],
+    "twitch": "paybae",
+    "youtube": [],
+    "category": "streamer"
+  },
+  "lacy": {
+    "display_name": "Lacy",
+    "aliases": ["lacy", "nick fosco", "fosco", "faze lacy"],
+    "twitch": "lacy",
+    "kick": "lacy",
+    "youtube": ["Lacy", "LacyHimself"],
+    "category": "streamer"
+  }
+}

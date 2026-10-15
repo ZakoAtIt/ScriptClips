@@ -1,0 +1,8 @@
+yt-dlp
+rapidfuzz
+sentence-transformers
+faster-whisper
+torch
+open-clip-torch
+Pillow
+easyocr

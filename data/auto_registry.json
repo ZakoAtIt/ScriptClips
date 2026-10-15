@@ -1,0 +1,77 @@
+{
+  "queries_hash": "21294b8e58e0b4d0",
+  "queries": [
+    {
+      "sentence": "rakai had yonna in dream",
+      "triage": {
+        "is_event": true,
+        "event_phrase": "rakai had yonna in dream",
+        "related_streamers": [],
+        "search_hints": [
+          "rakai yonna dream moment",
+          "rakai had yonna in dream"
+        ],
+        "moment_cues": [
+          "had a dream about",
+          "you were in my dream"
+        ],
+        "is_news_drama": false,
+        "language": "en"
+      },
+      "people": [
+        {
+          "name": "Rakai",
+          "aliases": [
+            "rakai"
+          ],
+          "platform": "twitch",
+          "is_streamer": true
+        },
+        {
+          "name": "Yonna",
+          "aliases": [
+            "yonna"
+          ],
+          "platform": "unknown",
+          "is_streamer": false
+        }
+      ],
+      "hints": {
+        "event_key": "rakai had yonna in dream",
+        "languages": [
+          "en"
+        ],
+        "vods": [
+          "ZrWYn36FGlA",
+          "YIXvJBPbyg8"
+        ],
+        "captioned_vods": [
+          "ZrWYn36FGlA",
+          "YIXvJBPbyg8"
+        ],
+        "kick": {
+          "slug": null,
+          "enabled": false
+        },
+        "registered": true,
+        "notes": [
+          "person 'Rakai' already known (RaKai); skipped",
+          "auto person: Yonna",
+          "  VOD pick score=8.0 captions=True [ZrWYn36FGlA] Rakai & Yonna Jay TAKEOVER Streamer Prom 2026 🔥!",
+          "  VOD pick score=7.0 captions=True [YIXvJBPbyg8] Pottery Date Session & Stream with Rakai | Yonna Jay Live Stream",
+          "  lexicon cues: ['had a dream about', 'you were in my dream']",
+          "event registered under 'rakai had yonna in dream'"
+        ]
+      }
+    },
+    {
+      "sentence": "rakai yonna dream ai generated",
+      "hints": {
+        "registered": true,
+        "notes": [
+          "already registered in event registry; skipped"
+        ]
+      }
+    }
+  ]
+}

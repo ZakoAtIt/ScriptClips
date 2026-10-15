@@ -1,0 +1,14 @@
+{
+  "spider_man": {
+    "name": "Spider-Man",
+    "aliases": ["spider man", "spiderman", "spider-man 4"]
+  },
+  "brand_new_day": {
+    "name": "Brand New Day",
+    "aliases": ["brand new day"]
+  },
+  "the_odyssey": {
+    "name": "The Odyssey",
+    "aliases": ["odyssey", "the odyssey movie"]
+  }
+}

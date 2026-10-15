@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "description": "Fixture set for eval harness. Root cause categories: entity_only_passed, false_narration_classification, weak_clip_verb, lexicon_gap, search_recall_miss, window_misaligned, other.",
+  "fixtures": [
+    {
+      "query": "fousey throws water on jack water fight onstream",
+      "expected": "exact_match",
+      "root_cause": null,
+      "known_video_id": null,
+      "known_timestamp": null,
+      "notes": "Visual event — should find the water-throwing moment. Action term 'throw' is real."
+    },
+    {
+      "query": "caseoh guesses burgers correct stream",
+      "expected": "exact_match",
+      "root_cause": "weak_clip_verb",
+      "known_video_id": null,
+      "known_timestamp": null,
+      "notes": "Audio-primary event — 'guess' is a weak CLIP verb. Should find the burger-guessing moment via audio corroboration."
+    },
+    {
+      "query": "rakai talks about dream yonna ai generated",
+      "expected": "no_clip",
+      "root_cause": "false_narration_classification",
+      "known_video_id": null,
+      "known_timestamp": null,
+      "notes": "Should classify as narration (not event). 'talks'/'about' are weak verbs. No strong action to corroborate."
+    },
+    {
+      "query": "kai helicopter streamer univ party",
+      "expected": "exact_match",
+      "root_cause": null,
+      "known_video_id": null,
+      "known_timestamp": null,
+      "notes": "Visual event — helicopter is concrete visual_event_kind. Should find the helicopter moment."
+    },
+    {
+      "query": "speed meets ronaldo",
+      "expected": "exact_match",
+      "root_cause": "weak_clip_verb",
+      "known_video_id": null,
+      "known_timestamp": null,
+      "notes": "Event — 'meet' is a weak CLIP verb but has real audio corroboration. Should find the meeting moment."
+    }
+  ]
+}

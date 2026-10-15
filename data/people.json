@@ -1,0 +1,33 @@
+{
+  "cristiano_ronaldo": {
+    "display_name": "Cristiano Ronaldo",
+    "aliases": ["ronaldo", "cristiano ronaldo", "cr7"],
+    "category": "person"
+  },
+  "lebron_james": {
+    "display_name": "LeBron James",
+    "aliases": ["lebron", "lebron james", "king james"],
+    "category": "person"
+  },
+  "caseoh": {
+    "display_name": "CaseOh",
+    "aliases": ["caseoh", "case oh"],
+    "twitch": "caseoh",
+    "category": "streamer"
+  },
+  "tom_holland": {
+    "display_name": "Tom Holland",
+    "aliases": ["tom holland", "tom holland actor"],
+    "category": "person"
+  },
+  "zendaya": {
+    "display_name": "Zendaya",
+    "aliases": ["zendaya", "zendaya coleman", "zendaya stoermer"],
+    "category": "person"
+  },
+  "kevin_feige": {
+    "display_name": "Kevin Feige",
+    "aliases": ["kevin feige", "feige", "kevin feige marvel"],
+    "category": "person"
+  }
+}

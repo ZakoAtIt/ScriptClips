@@ -1,0 +1,33 @@
+# media / pipeline output
+output/
+cache/
+images/
+logs/
+clips/
+input/
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.svg
+*.ico
+*.part
+*.img
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# secrets / local session state
+cookies.txt
+session-*.md
+pipeline.log
+exported_registry.json
